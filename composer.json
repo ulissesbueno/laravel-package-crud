@@ -14,5 +14,8 @@
     },
     "require": {
         "php": ">=7.0"
+    },
+    "require-dev": {
+        "ubs/crud" : "dev-master"
     }
 }
