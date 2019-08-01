@@ -7,8 +7,7 @@
             "email": "ulisses.bueno@gmail.com"
         }
     ],
-    "require": {},
-	"autoload": {
+    "autoload": {
         "psr-4": {
             "Ubs\\Crud\\": "src/"
         }
