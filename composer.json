@@ -12,6 +12,6 @@
             "Ubs\\Crud\\": "src/"
         }
     },
-    "minimum-stability":"dev-master",
+    "minimum-stability":"dev",
     "version": "master"
 }
