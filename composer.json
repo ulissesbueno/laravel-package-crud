@@ -12,10 +12,9 @@
             "Ubs\\Crud\\": "src/"
         }
     },
+    "minimum-stability":"dev",
+    "version": "master",
     "require": {
         "php": ">=7.0"
-    },
-    "require-dev": {
-        "ubs/crud" : "dev"
     }
 }
